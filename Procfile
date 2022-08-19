@@ -1,1 +1,1 @@
-web:gunicorn storefront-app1.wsgi:application
+web:gunicorn storefront.wsgi:application
